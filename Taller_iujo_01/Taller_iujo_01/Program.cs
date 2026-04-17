@@ -14,9 +14,22 @@ namespace Taller_iujo_01
 	{
 		public static void Main(string[] args)
 		{
-			Console.WriteLine("Hello World!");
+			Console.WriteLine("===Taller 01===");
 			
-			// TODO: Implement Functionality Here
+			//1. El dato del usuario
+			string Registro_de_Usuario = "   ID_777;   August;   Evaluacion;  95";
+			Console.WriteLine(Registro_de_Usuario);
+			
+			string Registro_Limpio = Registro_de_Usuario.Trim();
+			Console.WriteLine(Registro_Limpio);
+			
+			string[] partes = Registro_Limpio.Split(';');
+			string ID = partes[0].Trim();
+			string Nombre = partes[1].Trim();
+			string Tarea = partes[2].Trim();
+			string Nota = partes[3].Trim();
+			
+			Console.WriteLine(string.Format("El id es: {0} del usuario {1} en la evaluacion {2} con la nota {3}", ID, Nombre, Tarea, Nota));
 			
 			Console.Write("Press any key to continue . . . ");
 			Console.ReadKey(true);

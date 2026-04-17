@@ -1,0 +1,5 @@
+C:\Users\usuario\Documents\Taller_Seccion_A\Taller_iujo_01\Taller_iujo_01\bin\Debug\Taller_iujo_01.exe
+C:\Users\usuario\Documents\Taller_Seccion_A\Taller_iujo_01\Taller_iujo_01\bin\Debug\Taller_iujo_01.pdb
+C:\Users\usuario\Documents\Taller_Seccion_A\Taller_iujo_01\Taller_iujo_01\obj\Debug\Taller_iujo_01.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Documents\Taller_Seccion_A\Taller_iujo_01\Taller_iujo_01\obj\Debug\Taller_iujo_01.exe
+C:\Users\usuario\Documents\Taller_Seccion_A\Taller_iujo_01\Taller_iujo_01\obj\Debug\Taller_iujo_01.pdb
