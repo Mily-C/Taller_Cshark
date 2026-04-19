@@ -1,0 +1,4 @@
+Clave Débil detectada
+Clave Débil detectada
+[2026-04-18 19:43] Clave Debil detectada: 123
+[2026-04-18 19:46] Clave Debil detectada: 123
